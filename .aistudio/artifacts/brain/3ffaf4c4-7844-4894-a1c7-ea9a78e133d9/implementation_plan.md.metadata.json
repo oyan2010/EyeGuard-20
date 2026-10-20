@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for EyeGuard 20 eye protection app with 20-20-20 rule, DevicePolicyManager screen locking, Foreground Service state machine, BreakActivity, DataStore persistence, and developer test mode.",
+  "updatedAt": "2026-10-13T07:41:21.242544693Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Eye Outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 22,54 C 34,36 74,36 86,54 C 74,72 34,72 22,54 Z" />
+
+    <!-- Iris Circle -->
+    <path
+        android:fillColor="#1F9D8B"
+        android:pathData="M 54,42 A 12,12 0 1,0 54,66 A 12,12 0 1,0 54,42 Z" />
+
+    <!-- Pupil Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,49 A 5,5 0 1,0 54,59 A 5,5 0 1,0 54,49 Z" />
+
+    <!-- Protective Sparkle/Shield Accent -->
+    <path
+        android:fillColor="#7BC8A4"
+        android:pathData="M 68,36 L 70,41 L 75,43 L 70,45 L 68,50 L 66,45 L 61,43 L 66,41 Z" />
+</vector>

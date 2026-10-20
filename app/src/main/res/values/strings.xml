@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">EyeGuard 20</string>
+    <string name="admin_description">EyeGuard 20 requires Device Administrator to lock the screen when it is time for an eye break according to the 20-20-20 rule.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_adherence">Adherence</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_tips">Tips</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_start">Start Protecting</string>
+    <string name="onboarding_p1_title">Protect Your Eyes</string>
+    <string name="onboarding_p1_desc">Staring at screens causes digital eye strain, dryness, and fatigue. The 20-20-20 rule helps your eye muscles relax and recover naturally.</string>
+    <string name="onboarding_p2_title">Device Administrator</string>
+    <string name="onboarding_p2_desc">EyeGuard 20 locks your phone when a break starts so your eyes get the rest they need. Tap below to grant permission.</string>
+    <string name="onboarding_p2_btn">Grant Admin Permission</string>
+    <string name="onboarding_p2_granted">Admin Permission Granted</string>
+    <string name="onboarding_p3_title">Reliable Alerts</string>
+    <string name="onboarding_p3_desc">Enable notifications and exempt the app from battery optimizations so your eye breaks are never delayed.</string>
+    <string name="onboarding_p3_notif">Notifications</string>
+    <string name="onboarding_p3_battery">Battery Optimization</string>
+    <string name="onboarding_p3_fullscreen">Full-Screen Display</string>
+    <string name="onboarding_p4_title">Choose Your Pace</string>
+    <string name="onboarding_p4_desc">Set your preferred screen usage period and break duration. You can adjust these anytime in Settings.</string>
+
+    <!-- Home Screen -->
+    <string name="status_active">Protection Active</string>
+    <string name="status_off">Protection Off</string>
+    <string name="status_in_break">Eye Break in Progress</string>
+    <string name="status_paused">Paused</string>
+    <string name="timer_until_break">until next eye break</string>
+    <string name="timer_break_remaining">break remaining</string>
+    <string name="master_switch_title">Eye Protection</string>
+    <string name="master_switch_on_desc">Actively counting screen time</string>
+    <string name="master_switch_off_desc">Turn on to protect your eyes</string>
+    <string name="card_usage_label">Usage Time</string>
+    <string name="card_break_label">Break Time</string>
+    <string name="minutes_format">%1$d min</string>
+    <string name="card_today_title">Today\'s Rest</string>
+    <string name="breaks_taken_format">%1$d breaks taken</string>
+    <string name="rest_minutes_format">%1$d min rested</string>
+    <string name="btn_take_break_now">Take a Break Now</string>
+    <string name="admin_revoked_banner">Device Admin permission was disabled. Tap here to re-grant and resume eye protection.</string>
+
+    <!-- Break Screen -->
+    <string name="break_title">Time to Rest Your Eyes</string>
+    <string name="break_main_instruction">Look out of a window or focus on an object at least 6 meters (20 feet) away.</string>
+    <string name="break_great_job">Great job! Your eyes thank you.</string>
+    <string name="break_emergency_call">Emergency Call</string>
+    <string name="break_skip_button">Skip Break (Hold 5s)</string>
+    <string name="break_skipping">Keep holding to skip…</string>
+
+    <!-- Break Rotating Tips -->
+    <string name="tip_rotate_1">Look out of a window into the far distance.</string>
+    <string name="tip_rotate_2">Focus on an object roughly 6 meters (20 feet) away.</string>
+    <string name="tip_rotate_3">Blink slowly 10 times to rehydrate your cornea.</string>
+    <string name="tip_rotate_4">Close your eyes gently for 20 seconds and breathe.</string>
+    <string name="tip_rotate_5">Roll your eyes slowly in clockwise and counter-clockwise circles.</string>
+    <string name="tip_rotate_6">Gently stretch your neck, roll shoulders, and relax.</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_timing_title">Timing</string>
+    <string name="settings_usage_label">Screen Usage Duration</string>
+    <string name="settings_break_label">Eye Break Duration</string>
+    <string name="settings_cycle_notice">Timing changes will apply starting from the next cycle.</string>
+    <string name="settings_behavior_title">Behavior</string>
+    <string name="settings_strict_mode">Strict Mode</string>
+    <string name="settings_strict_mode_desc">Hides the skip button during breaks to enforce uninterrupted eye rest.</string>
+    <string name="settings_sound">Gentle Chime</string>
+    <string name="settings_sound_desc">Play a soothing chime when a break begins and ends.</string>
+    <string name="settings_vibrate">Vibration Alert</string>
+    <string name="settings_vibrate_desc">Vibrate gently at break transitions.</string>
+    <string name="settings_boot">Start on Boot</string>
+    <string name="settings_boot_desc">Automatically resume eye protection after device restarts.</string>
+
+    <string name="settings_permissions_title">System Permissions</string>
+    <string name="perm_device_admin">Device Administrator</string>
+    <string name="perm_notifications">Notifications</string>
+    <string name="perm_battery">Battery Optimization</string>
+    <string name="perm_exact_alarm">Exact Alarms</string>
+    <string name="perm_fullscreen">Full-Screen Display</string>
+    <string name="perm_status_granted">Granted</string>
+    <string name="perm_status_missing">Action needed</string>
+    <string name="btn_fix">Fix</string>
+
+    <string name="settings_danger_title">Device Administration</string>
+    <string name="btn_deactivate_uninstall">Deactivate Admin &amp; Uninstall</string>
+    <string name="dialog_deactivate_title">Deactivate EyeGuard 20?</string>
+    <string name="dialog_deactivate_msg">This will remove Device Administrator privileges and stop all eye protection timers so you can uninstall the app.</string>
+    <string name="dialog_confirm">Deactivate</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <!-- Developer / Emulator Test -->
+    <string name="dev_test_title">Developer Emulator Test</string>
+    <string name="dev_test_desc">Quick testing shortcuts for fast verification in the emulator or live device.</string>
+    <string name="dev_btn_10s_usage">Start 10-Second Usage Cycle</string>
+    <string name="dev_btn_15s_break">Start 15-Second Break</string>
+    <string name="app_version_format">Version 1.0 (Build %1$d)</string>
+
+    <!-- Tips Screen -->
+    <string name="tips_screen_title">Eye Health &amp; Ergonomics</string>
+    <string name="tip_rule_title">The 20-20-20 Rule</string>
+    <string name="tip_rule_desc">Every 20 minutes spent looking at a screen, pause and look at something at least 20 feet (6 meters) away for 20 seconds. This relaxes the ciliary muscles inside your eyes.</string>
+    <string name="tip_dry_eyes_title">Combat Dry Eyes</string>
+    <string name="tip_dry_eyes_desc">When concentrating on screens, our blink rate drops from 15–20 times per minute to only 5–7 times. Remember to blink fully to refresh your tear film.</string>
+    <string name="tip_distance_title">Ideal Screen Distance</string>
+    <string name="tip_distance_desc">Hold your phone roughly 30 to 40 cm (12 to 16 inches) away from your face. Avoid using devices right before sleep in completely dark rooms.</string>
+    <string name="tip_lighting_title">Ambient Lighting</string>
+    <string name="tip_lighting_desc">Match your screen brightness to the ambient light in your room. Excessive glare and harsh contrasts accelerate optical fatigue.</string>
+    <string name="tips_disclaimer">This application provides ergonomic wellness reminders and is not a substitute for professional medical diagnosis or optometrist care.</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_timer_name">Protection Status</string>
+    <string name="notif_channel_timer_desc">Ongoing status and countdown until your next eye break.</string>
+    <string name="notif_channel_break_name">Break Alerts</string>
+    <string name="notif_channel_break_desc">Alerts when your scheduled eye break begins.</string>
+    <string name="notif_title_usage">Next break in</string>
+    <string name="notif_text_usage">Eye protection active</string>
+    <string name="notif_title_break">Eye break in progress</string>
+    <string name="notif_text_break">Look at something 6 meters away</string>
+    <string name="notif_action_pause_10">Pause 10 min</string>
+    <string name="notif_action_turn_off">Turn Off</string>
+
+    <!-- 1-Minute Break Warning -->
+    <string name="notif_channel_warning_name">Break Preparation Alert</string>
+    <string name="notif_channel_warning_desc">Heads-up alert 1 minute before your scheduled eye break.</string>
+    <string name="notif_title_one_min_warning">Eye break in 1 minute</string>
+    <string name="notif_text_one_min_warning">Save your work and prepare to look away from your screen.</string>
+    <string name="settings_warning_toggle">1-Minute Break Warning</string>
+    <string name="settings_warning_toggle_desc">Receive a gentle notification 1 minute before your screen usage expires.</string>
+
+    <!-- Adherence Screen -->
+    <string name="adherence_title">7-Day Adherence</string>
+    <string name="adherence_subtitle">Your 20-20-20 rule consistency over the last 7 days</string>
+    <string name="adherence_total_breaks">Total Breaks</string>
+    <string name="adherence_daily_average">Daily Avg</string>
+    <string name="adherence_goal_target">Goal: 12 / day</string>
+    <string name="adherence_score">Adherence Rate</string>
+    <string name="adherence_breakdown_title">Daily Breakdown</string>
+    <string name="adherence_status_met">Goal Met</string>
+    <string name="adherence_status_progress">In Progress</string>
+    <string name="adherence_badge_champion">Vision Champion</string>
+    <string name="adherence_badge_consistent">Consistent Protector</string>
+    <string name="adherence_badge_building">Building Habit</string>
+    <string name="adherence_card_info_title">Why 7-Day Consistency Matters</string>
+    <string name="adherence_card_info_desc">Consistent 20-20-20 micro-breaks allow the ciliary muscle to relax, replenish the tear film, and reduce eye fatigue and headaches by up to 60%.</string>
+    <string name="adherence_chart_hint">Tap on any day point above to view details</string>
+</resources>

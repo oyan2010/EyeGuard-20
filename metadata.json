@@ -1,0 +1,6 @@
+{
+  "name": "EyeGuard 20",
+  "description": "Protect your eyesight using the 20-20-20 rule with automatic break enforcement, screen lock, and soothing eye relaxation guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

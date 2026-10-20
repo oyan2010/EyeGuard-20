@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">آئی گارڈ 20</string>
+    <string name="admin_description">آئی گارڈ 20 کو 20-20-20 اصول کے مطابق آنکھوں کے وقفے کے دوران اسکرین کو مقفل کرنے کے لیے ڈیوائس ایڈمنسٹریٹر کی ضرورت ہے۔</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_adherence">پابندی</string>
+    <string name="nav_settings">ترتیبات</string>
+    <string name="nav_tips">تجاویز</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">چھوڑیں</string>
+    <string name="onboarding_next">آگے</string>
+    <string name="onboarding_start">تحفظ شروع کریں</string>
+    <string name="onboarding_p1_title">اپنی آنکھوں کی حفاظت کریں</string>
+    <string name="onboarding_p1_desc">اسکرین پر مسلسل دیکھنا آنکھوں کے تناؤ، خشکی اور تھکاوٹ کا باعث بنتا ہے۔ 20-20-20 کا اصول آنکھوں کے پٹھوں کو قدرتی آرام فراہم کرتا ہے۔</string>
+    <string name="onboarding_p2_title">ڈیوائس ایڈمنسٹریٹر</string>
+    <string name="onboarding_p2_desc">وقفے کا وقت ہونے پر فون لاک ہو جائے گا تاکہ آپ کی آنکھوں کو مکمل آرام مل سکے۔ اجازت دینے کے لیے نیچے ٹیپ کریں۔</string>
+    <string name="onboarding_p2_btn">ایڈمن کی اجازت دیں</string>
+    <string name="onboarding_p2_granted">ایڈمن کی اجازت مل گئی</string>
+    <string name="onboarding_p3_title">اطلاعات اور بیری</string>
+    <string name="onboarding_p3_desc">نوٹیفکیشن آن کریں اور ایپ کو بیٹری کی بچت سے مستثنیٰ رکھیں تاکہ وقفہ بروقت ملے۔</string>
+    <string name="onboarding_p3_notif">نوٹیفیکیشنز</string>
+    <string name="onboarding_p3_battery">بیٹری آپٹیمائزیشن</string>
+    <string name="onboarding_p3_fullscreen">فل اسکرین ڈسپلے</string>
+    <string name="onboarding_p4_title">اپنا شیڈول منتخب کریں</string>
+    <string name="onboarding_p4_desc">فون کے استعمال کا وقت اور وقفے کا دورانیہ منتخب کریں۔ آپ اسے ترتیبات میں بھی تبدیل کر سکتے ہیں۔</string>
+
+    <!-- Home Screen -->
+    <string name="status_active">تحفظ فعال ہے</string>
+    <string name="status_off">تحفظ بند ہے</string>
+    <string name="status_in_break">آنکھوں کا وقفہ جاری ہے</string>
+    <string name="status_paused">روکا گیا</string>
+    <string name="timer_until_break">اگلے وقفے تک</string>
+    <string name="timer_break_remaining">باقی وقفہ</string>
+    <string name="master_switch_title">آنکھوں کا تحفظ</string>
+    <string name="master_switch_on_desc">اسکرین کے استعمال کا وقت گن رہا ہے</string>
+    <string name="master_switch_off_desc">آنکھوں کی حفاظت کے لیے آن کریں</string>
+    <string name="card_usage_label">استعمال کا وقت</string>
+    <string name="card_break_label">وقفے کا وقت</string>
+    <string name="minutes_format">%1$d منٹ</string>
+    <string name="card_today_title">آج کا آرام</string>
+    <string name="breaks_taken_format">%1$d وقفے مکمل</string>
+    <string name="rest_minutes_format">%1$d منٹ آرام</string>
+    <string name="btn_take_break_now">ابھی وقفہ لیں</string>
+    <string name="admin_revoked_banner">ڈیوائس ایڈمن کی اجازت بند ہے۔ تحفظ بحال کرنے کے لیے یہاں ٹیپ کریں۔</string>
+
+    <!-- Break Screen -->
+    <string name="break_title">آنکھوں کو آرام دینے کا وقت</string>
+    <string name="break_main_instruction">کھڑکی سے باہر دیکھیں یا کم از کم 6 میٹر (20 فٹ) دور کسی چیز پر توجہ دیں۔</string>
+    <string name="break_great_job">بہت خوب! آپ کی آنکھیں شکر گزار ہیں۔</string>
+    <string name="break_emergency_call">ہنگامی کال</string>
+    <string name="break_skip_button">وقفہ چھوڑیں (5 سیکنڈ دبائے رکھیں)</string>
+    <string name="break_skipping">چھوڑنے کے لیے دبائے رکھیں…</string>
+
+    <!-- Break Rotating Tips -->
+    <string name="tip_rotate_1">کھڑکی سے دور خلا یا منظر کی طرف دیکھیں۔</string>
+    <string name="tip_rotate_2">تقریباً 6 میٹر دور کسی چیز پر نگاہ مرکوز کریں۔</string>
+    <string name="tip_rotate_3">آنکھوں کو نم رکھنے کے لیے آہستہ آہستہ 10 بار پلکیں جھپکائیں۔</string>
+    <string name="tip_rotate_4">20 سیکنڈ کے لیے آنکھیں آہستہ سے بند کریں اور گہرا سانس لیں۔</string>
+    <string name="tip_rotate_5">آنکھوں کو آہستہ آہستہ دائرے میں گھمائیں۔</string>
+    <string name="tip_rotate_6">گردن اور کندھوں کو ڈھیلا چھوڑ کر آرام دیں۔</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_timing_title">اوقات</string>
+    <string name="settings_usage_label">اسکرین استعمال کا دورانیہ</string>
+    <string name="settings_break_label">آنکھوں کے وقفے کا دورانیہ</string>
+    <string name="settings_cycle_notice">اوقات میں تبدیلی اگلے چکر سے لاگو ہوگی۔</string>
+    <string name="settings_behavior_title">طرز عمل</string>
+    <string name="settings_strict_mode">سخت موڈ (Strict Mode)</string>
+    <string name="settings_strict_mode_desc">وقفے کو چھوڑنے کا بٹن چھپاتا ہے تاکہ آنکھوں کا آرام یقینی رہے۔</string>
+    <string name="settings_sound">مدہم گھنٹی</string>
+    <string name="settings_sound_desc">وقفہ شروع اور ختم ہونے پر آواز چلائیں۔</string>
+    <string name="settings_vibrate">تھررتھراہٹ (وائبریشن)</string>
+    <string name="settings_vibrate_desc">وقفے کے دوران ہلکی وائبریشن کریں۔</string>
+    <string name="settings_boot">فون اسٹارٹ پر خودکار آن</string>
+    <string name="settings_boot_desc">فون ریبوٹ ہونے پر خود بخود تحفظ بحال کریں۔</string>
+
+    <string name="settings_permissions_title">سسٹم کی اجازتیں</string>
+    <string name="perm_device_admin">ڈیوائس ایڈمنسٹریٹر</string>
+    <string name="perm_notifications">نوٹیفیکیشنز</string>
+    <string name="perm_battery">بیٹری آپٹیمائزیشن</string>
+    <string name="perm_exact_alarm">الارم شیڈول</string>
+    <string name="perm_fullscreen">فل اسکرین ڈسپلے</string>
+    <string name="perm_status_granted">منظور شدہ</string>
+    <string name="perm_status_missing">اجازت درکار ہے</string>
+    <string name="btn_fix">درست کریں</string>
+
+    <string name="settings_danger_title">ایڈمنسٹریشن کنٹرول</string>
+    <string name="btn_deactivate_uninstall">ایڈمن بند کریں اور ان انسٹال کریں</string>
+    <string name="dialog_deactivate_title">کیا ایڈمن بند کرنا چاہتے ہیں؟</string>
+    <string name="dialog_deactivate_msg">اس سے ایڈمن کی اجازت ختم ہو جائے گی تاکہ آپ ایپ کو ان انسٹال کر سکیں۔</string>
+    <string name="dialog_confirm">غیر فعال کریں</string>
+    <string name="dialog_cancel">منسوخ کریں</string>
+
+    <!-- Developer / Emulator Test -->
+    <string name="dev_test_title">ڈویلپر ٹیسٹنگ موڈ</string>
+    <string name="dev_test_desc">ایمولیٹر میں فوری جانچ کے لیے شارٹ کٹس۔</string>
+    <string name="dev_btn_10s_usage">10 سیکنڈ کا سائیکل شروع کریں</string>
+    <string name="dev_btn_15s_break">15 سیکنڈ کا وقفہ شروع کریں</string>
+    <string name="app_version_format">ورژن 1.0 (بلڈ %1$d)</string>
+
+    <!-- Tips Screen -->
+    <string name="tips_screen_title">آنکھوں کی صحت اور دیکھ بھال</string>
+    <string name="tip_rule_title">20-20-20 کا سنہری اصول</string>
+    <string name="tip_rule_desc">اسکرین کے ہر 20 منٹ کے بعد، 20 سیکنڈ کے لیے کم از کم 20 فٹ (6 میٹر) دور دیکھیں۔ اس سے آنکھوں کے پٹھے پرسکون ہو جاتے ہیں۔</string>
+    <string name="tip_dry_eyes_title">خشکی سے بچاؤ</string>
+    <string name="tip_dry_eyes_desc">اسکرین پر مسلسل دیکھنے سے پلکیں جھپکنے کی شرح کم ہو جاتی ہے۔ آنکھوں کو تر رکھنے کے لیے بار بار پلکیں جھپکائیں۔</string>
+    <string name="tip_distance_title">اسکرین کا مناسب فاصلہ</string>
+    <string name="tip_distance_desc">فون کو اپنے چہرے سے 30 تا 40 سینٹی میٹر دور رکھیں۔ مکمل اندھیرے میں موبائل کے استعمال سے گریز کریں۔</string>
+    <string name="tip_lighting_title">مناسب روشنی</string>
+    <string name="tip_lighting_desc">اسکرین کی چمک کو کمرے کی روشنی کے مطابق رکھیں۔ تیز اور تیز تضاد آنکھوں کو جلدی تھکا دیتا ہے۔</string>
+    <string name="tips_disclaimer">یہ ایپ صرف احتیاطی رہنمائی کے لیے ہے اور کسی طبی علاج یا ڈاکٹر کے متبادل نہیں۔</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_timer_name">تحفظ کی صورتحال</string>
+    <string name="notif_channel_timer_desc">اگلے وقفے تک جاری رہنے والی صورتحال۔</string>
+    <string name="notif_channel_break_name">وقفے کا الرٹ</string>
+    <string name="notif_channel_break_desc">آنکھوں کے وقفے کا آغاز ہونے پر مطلع کرتا ہے۔</string>
+    <string name="notif_title_usage">اگلا وقفہ</string>
+    <string name="notif_text_usage">آنکھوں کا تحفظ فعال ہے</string>
+    <string name="notif_title_break">آنکھوں کا وقفہ جاری ہے</string>
+    <string name="notif_text_break">6 میٹر دور کسی چیز پر توجہ دیں</string>
+    <string name="notif_action_pause_10">10 منٹ روکیں</string>
+    <string name="notif_action_turn_off">بند کریں</string>
+
+    <!-- 1-Minute Break Warning -->
+    <string name="notif_channel_warning_name">وقفے کی تیاری کا الرٹ</string>
+    <string name="notif_channel_warning_desc">آنکھوں کے وقفے سے 1 منٹ پہلے الرٹ جاری کرتا ہے۔</string>
+    <string name="notif_title_one_min_warning">1 منٹ میں آنکھوں کا وقفہ</string>
+    <string name="notif_text_one_min_warning">کام سمیٹ لیں اور دور دیکھنے کے لیے تیار ہو جائیں۔</string>
+    <string name="settings_warning_toggle">1 منٹ پہلے تنبیہ</string>
+    <string name="settings_warning_toggle_desc">اسکرین کے استعمال کا وقت ختم ہونے سے 1 منٹ پہلے الرٹ حاصل کریں۔</string>
+
+    <!-- Adherence Screen -->
+    <string name="adherence_title">7 روزہ پابندی</string>
+    <string name="adherence_subtitle">پچھلے 7 دنوں میں 20-20-20 اصول کی مسلسل پیروی</string>
+    <string name="adherence_total_breaks">کل وقفے</string>
+    <string name="adherence_daily_average">روزانہ اوسط</string>
+    <string name="adherence_goal_target">ہدف: 12 وقفے فی دن</string>
+    <string name="adherence_score">پابندی کی شرح</string>
+    <string name="adherence_breakdown_title">روزانہ تفصیلات</string>
+    <string name="adherence_status_met">ہدف مکمل</string>
+    <string name="adherence_status_progress">جاری ہے</string>
+    <string name="adherence_badge_champion">بصارت کے محافظ</string>
+    <string name="adherence_badge_consistent">مستقل مزاج محافظ</string>
+    <string name="adherence_badge_building">عادت سازی کا مرحلہ</string>
+    <string name="adherence_card_info_title">7 روزہ مستقل مزاجی کیوں ضروری ہے؟</string>
+    <string name="adherence_card_info_desc">20-20-20 کے باقاعدہ وقفے آنکھوں کے پٹھوں کو پرسکون رکھتے ہیں، نمی بحال کرتے ہیں اور تھکاوٹ اور سر کے درد میں 60 فیصد تک کمی لاتے ہیں۔</string>
+    <string name="adherence_chart_hint">تفصیلات دیکھنے کے لیے گراف میں کسی بھی دن کے نقطے پر ٹیپ کریں</string>
+</resources>
